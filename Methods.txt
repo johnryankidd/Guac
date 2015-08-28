@@ -3,11 +3,14 @@ To Make pico-
 	chop onions
 	chop cilantro 
 	combine all ingrediants in bowl
+	lots of garlic (minced garlic works best)
+	lemon juice (one whole lemon)
+	
 
 Mash avacados
 combine all ingrediants
 
-Summary- Serve and injoy
+Summary- Serve and enjoy
 Don't forget to serve chips
 Needed to make another edit
 Git diff test
